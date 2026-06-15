@@ -1,0 +1,3 @@
+tipo_acesso,n,tempo_medio_s,desvio_padrao,ic95
+Sequencial,30,7.110299,1.018048,0.380145
+Com saltos,30,7.335643,1.077560,0.402368

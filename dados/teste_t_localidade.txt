@@ -1,0 +1,4 @@
+Teste t pareado entre acesso sequencial e acesso com saltos
+t = -1.461326
+p = 0.154678
+df = 29
